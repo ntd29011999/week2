@@ -157,6 +157,7 @@
             android:paddingHorizontal="20dp">
 
             <TextView
+                android:id="@+id/tvEmailPhone"
                 android:textSize="17sp"
                 android:textColor="#FEFEFE"
                 android:layout_width="match_parent"
