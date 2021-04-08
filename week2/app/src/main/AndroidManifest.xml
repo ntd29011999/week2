@@ -13,6 +13,8 @@
         <activity android:name=".SigninActivity" />
         <activity android:name=".Onboard" />
         <activity android:name=".Welcome" />
+        <activity android:name=".LoginActivity"/>
+        <activity android:name=".ProfileActivity"/>
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
